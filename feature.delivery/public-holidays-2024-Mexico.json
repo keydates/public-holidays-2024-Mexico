@@ -1,0 +1,82 @@
+{
+  "product": "Mexico Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebrate the start of the new year with family and friends"
+    },
+    {
+      "title": "Constitution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-02-05T12:00:00",
+      "endDate": "2024-02-05T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2024",
+      "style": "green",
+      "description": "Commemorate the Mexican Constitution with events and parades"
+    },
+    {
+      "title": "Benito Juarez's Birthday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-03-18T12:00:00",
+      "endDate": "2024-03-18T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2024",
+      "style": "orange",
+      "description": "Honoring the birthday of a Mexican national hero"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2024",
+      "style": "yellow",
+      "description": "Recognizing and celebrating the contributions of workers"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-09-16T12:00:00",
+      "endDate": "2024-09-16T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2024",
+      "style": "green",
+      "description": "Celebrate Mexico's independence with fireworks and festivities"
+    },
+    {
+      "title": "Revolution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-11-18T12:00:00",
+      "endDate": "2024-11-18T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2024",
+      "style": "red",
+      "description": "Remembering the Mexican Revolution and its impact on the country"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2024",
+      "style": "deepPurple",
+      "description": "Celebrating the birth of Jesus Christ with loved ones"
+    }
+  ]
+}
